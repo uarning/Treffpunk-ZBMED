@@ -1,4 +1,11 @@
 # Meeting-Organisation
+
 ## Ort
+ZB MED
+
 ## Zeit
-## Details
+11.1.1111
+
+## Mehr Infos
+Fasenacht
+
